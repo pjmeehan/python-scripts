@@ -1,6 +1,5 @@
 # python-scripts
-(\n)collection of python scripts. 
-there are currently 3 new python scripts : fib.py, fibname.py and collatz.py.
-fib.py contains exercise 1.
-fibname contains exercise 2.
-collatz contains exercise 3.
+print ('collection of python scripts.') 
+print ('there are currently 2 new python scripts : fibname.py and collatz.py.')
+print ('fibname contains exercises 1 & 2.')
+print ('collatz contains exercise 3.')
