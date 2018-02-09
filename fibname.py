@@ -1,5 +1,6 @@
 # Ian McLoughlin
 # A program that displays Fibonacci numbers.
+# Exercise 1
 
 def fib(n):
   """This function returns the nth Fibonacci number."""
@@ -18,8 +19,12 @@ x = 27
 ans = fib(x)
 print("Fibonacci number", x, "is", ans)
 
+
+
+
 # Ian McLoughlin
 # A program that displays Fibonacci numbers using people's names.
+# Exercise 2
 
 def fib(n):
   """This function returns the nth Fibonacci number."""
