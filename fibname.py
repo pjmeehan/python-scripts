@@ -19,7 +19,8 @@ x = 27
 ans = fib(x)
 print("Fibonacci number", x, "is", ans)
 
-
+# Answer submitted to discusions
+# My name is Patrick, so the first and last letter of my name (P + K = 16 + 11) give the number  27. The 27th Fibonacci number is 196,418.
 
 
 
@@ -52,3 +53,14 @@ print("My surname is", name)
 print("The first letter", first, "is number", firstno)
 print("The last letter", last, "is number", lastno)
 print("Fibonacci number", x, "is", ans)
+
+# Answer submitted to discusions
+# My surname is Meehan
+
+# The first letter M is number 77
+
+# The last letter n is number 110
+
+# Fibonacci number 187 is 538522340430300790495419781092981030533
+
+# ord() returns an integer representing the code of the character.
