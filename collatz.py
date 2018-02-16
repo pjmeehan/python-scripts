@@ -1,4 +1,5 @@
 # Patrick Meehan, 2018-02-08
+# testing github repository update
 # Collatz conjecture (https://en.wikipedia.org/wiki/Collatz_conjecture)
 
 x = int(input("Please enter an integer: "))
