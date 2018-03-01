@@ -10,4 +10,4 @@ while roll_again:
     roll_again == "y", input()
 else:
     roll_again == "n"
-    print ("thanks for playing")    
+    print ("thanks for playing")   
