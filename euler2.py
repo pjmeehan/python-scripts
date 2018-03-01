@@ -4,7 +4,7 @@
 
 
 
-f fib(n):
+fib(n):
   """This function returns the nth Fibonacci number."""
   i = 0
   j = 1
