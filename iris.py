@@ -4,7 +4,9 @@
 import csv 
 
 x = open("data/iris.csv") # opens the file with the data 
+
 csv_x = csv.reader(x)
+
 for row in csv_x:
   print('{:<5} {:<5} {:<5} {:<5}'.format(*row))
     
