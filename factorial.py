@@ -26,8 +26,13 @@ def factorial(n):
 
 # this is the output of the function.
 
-    return answer 
+    return answer
 
-n = int(input("Please enter an integer: ",))   #allows for the input of a positive integer
-print(factorial(n)) #will return the factorial based on the above script that I created for factorial(n)
+# use input statement to allow for the input of a positive integer
 
+n = int(input("Please enter an integer: ",)) 
+
+# use a print statement to return the factorial based on the above script that was created for factorial(n)
+
+
+print(factorial(n)) 
