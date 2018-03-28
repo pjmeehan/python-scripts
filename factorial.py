@@ -1,7 +1,7 @@
 # Patrick Meehan 13-03-2018
 # exercise 6 - script for returning the factorial of a given number
 # https://stackoverflow.com/questions/35467303/write-factorial-with-while-loop-python 
-# (second answer, used print statement instaed of return statement)
+
 
 # factorial definition (as per google dictionary) : the product of an integer and all the integers below it.
 
