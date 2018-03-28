@@ -2,6 +2,8 @@
 # testing github repository update
 # Collatz conjecture (https://en.wikipedia.org/wiki/Collatz_conjecture)
 
+# set up script to allow user to input a number
+
 x = int(input("Please enter an integer: "))
 
 while x > 1: 
