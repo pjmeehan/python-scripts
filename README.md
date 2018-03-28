@@ -2,6 +2,7 @@
 
 Here are the following scripts and the Exercises they contain.
 
+- *fib.py* contains the script for Exercise 1. (this is also included in the fibname.py file)
 - *fibname.py* contains the scripts for Exercises 1 & 2.
 - *collatz.py* contains the script for Exercise 3.
 - *euler5.py* contains the script for Exercise 4.
