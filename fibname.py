@@ -1,6 +1,12 @@
-# Ian McLoughlin
+# # Patrick Meehan March 28, 2018
 # A program that displays Fibonacci numbers.
-# Exercise 1
+# based on a script created by Ian McLoughlin.
+
+# Exercise 1 : Please complete the following exercise this week. In the video lectures this week we ran an example
+# program that calculated the 30th Fibonacci number. Change the program to calculate the nth Fibonacci number
+# where n the sum of the first and last letters of your first name as numbers. Take A as the number 1, B as 2,
+# C as 3, and so on. For example, my name is Ian, so I should calculate the 25th Fibonacci number because I is 9
+# and n is 14, giving 25 in total.
 
 def fib(n):
   """This function returns the nth Fibonacci number."""
@@ -25,10 +31,14 @@ print("Fibonacci number", x, "is", ans)
 
 
 
-# Ian McLoughlin
+ 
 # A program that displays Fibonacci numbers using people's names.
-# Exercise 2
+# based on a script created by Ian McLoughlin, see link on next line
+# https://github.com/ianmcloughlin/python-fib/blob/master/fibname.py
 
+# Exercise 2 : Copy and run the program yourself. Change the string variable to contain your own surname, and rerun it.
+# Can you figure out what ord() does? Try to Google it to find out
+ 
 def fib(n):
   """This function returns the nth Fibonacci number."""
   i = 0
