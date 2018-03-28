@@ -39,7 +39,7 @@ print("Fibonacci number", x, "is", ans)
 # Exercise 2 : Copy and run the program yourself. Change the string variable to contain your own surname, and rerun it.
 # Can you figure out what ord() does? Try to Google it to find out
  
-def fib(n):
+ def fib(n):
   """This function returns the nth Fibonacci number."""
   i = 0
   j = 1
