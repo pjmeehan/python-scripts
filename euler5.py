@@ -1,9 +1,11 @@
 # Patrick Meehan 2018-02-19
 # exercise 4, euler problem 5
+# https://projecteuler.net/problem=5
 
-# Patrick Meehan 2018-02-19
-# exercise 4, euler problem 5
-
+# Exercise
+# Please complete the following exercise this week. It is problem 5 from Project Euler. The problem is as follows. 
+# 2,520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder. 
+# Write a Python program using for and range to calculate the smallest positive number that is evenly divisible by all of the numbers from 1 to 20.
  
 #original attempt
 # s = 2520 # we know 1 thru 10 lowest number is 2520, so we start with that number and eliminate the need of going thru range 1 thru 10 again.

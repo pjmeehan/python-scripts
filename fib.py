@@ -1,5 +1,5 @@
 # Ian McLoughlin
-# A program that displays Fibonacci numbers.
+# Exercise 1, a program that displays Fibonacci numbers.
 
 # Exercise : Please complete the following exercise this week. In the video lectures this week we ran an example
 # program that calculated the 30th Fibonacci number. Change the program to calculate the nth Fibonacci number
