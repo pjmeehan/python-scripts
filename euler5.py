@@ -30,16 +30,23 @@ def find(n):
 
   for i in range(11, 21):  
     if n % i == 0:
+
+# if the iteration is evenly divisable, the script will 'continue' to the next iteration     
       continue
+# if the iteration is not evenly divisable, the script will 'return a false' and move to the next number n.      
     else:
       return False
+# once the script finds a number that is evenly divisable by all iterations, it will 'return a true'.      
   return True
 
+# next we write a script to run our function.
 # we know that 2520 is the lowest number 1 thru 10. so we start with that number
 # and eliminate the need of going thru range 1 thru 10 again.
 
 x = 2520
 
+# use a 'while true' to keep looping until our (x) in find (x) finds the lowest number that is divisable by 
+# all the numbers 11 thru 20. Once found, the scripts stops with a 'break' statement.
 while True:
   if find(x):
     break
