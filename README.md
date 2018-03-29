@@ -1,5 +1,5 @@
 # Python-Scripts for GMIT Programming and Scripting Course
-8 (A detailed description of each exercise is contained in each file)
+(A detailed description of each exercise is contained in each file)
 
 Here are the following scripts and the Exercises they contain.
 
