@@ -2,7 +2,7 @@
 # exercise 6, script for returning the factorial of a given number
 # https://stackoverflow.com/questions/35467303/write-factorial-with-while-loop-python 
 
-# Exercise
+# Exercise 6
 # Write a Python script containing a function called factorial() that takes a single input/argument which is a positive
 # integer and returns its factorial. The factorial of a number is that number multiplied by all of the positive numbers
 # less than it. For example, the factorial of 5 is 5x4x3x2x1 which equals 120. You should, in your script,

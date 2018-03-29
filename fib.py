@@ -1,7 +1,8 @@
 # Ian McLoughlin
 # Exercise 1, a program that displays Fibonacci numbers.
 
-# Exercise : Please complete the following exercise this week. In the video lectures this week we ran an example
+# Exercise 1
+# Please complete the following exercise this week. In the video lectures this week we ran an example
 # program that calculated the 30th Fibonacci number. Change the program to calculate the nth Fibonacci number
 # where n the sum of the first and last letters of your first name as numbers. Take A as the number 1, B as 2,
 # C as 3, and so on. For example, my name is Ian, so I should calculate the 25th Fibonacci number because I is 9

@@ -3,7 +3,8 @@
 # Exercise 2, a program that displays Fibonacci numbers involving people's names.
 # based on scripts created by Ian McLoughlin.
 
-# Exercise 1 : Please complete the following exercise this week. In the video lectures this week we ran an example
+# Exercise 1
+# Please complete the following exercise this week. In the video lectures this week we ran an example
 # program that calculated the 30th Fibonacci number. Change the program to calculate the nth Fibonacci number
 # where n the sum of the first and last letters of your first name as numbers. Take A as the number 1, B as 2,
 # C as 3, and so on. For example, my name is Ian, so I should calculate the 25th Fibonacci number because I is 9
@@ -37,7 +38,8 @@ print("Fibonacci number", x, "is", ans)
 # based on a script created by Ian McLoughlin, see link on next line
 # https://github.com/ianmcloughlin/python-fib/blob/master/fibname.py
 
-# Exercise 2, copy and run the program yourself. Change the string variable to contain your own surname, and rerun it.
+# Exercise 2
+# Copy and run the program yourself. Change the string variable to contain your own surname, and rerun it.
 # Can you figure out what ord() does? Try to Google it to find out
  
  def fib(n):
