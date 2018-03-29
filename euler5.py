@@ -21,8 +21,7 @@
 
 # frustrated with many attempts, I used google for help and came across the following youtube video
 # which I actually understood.
-# https://www.youtube.com/watch?v=Km36RkQToqo
-
+# https://www.youtube.com/watch?v=EMTcsNMFS_g
 
 # created a function with a "for in range". 
 def find(n):
