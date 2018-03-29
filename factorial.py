@@ -1,5 +1,5 @@
 # Patrick Meehan 13-03-2018
-# exercise 6 - script for returning the factorial of a given number
+# exercise 6, script for returning the factorial of a given number
 # https://stackoverflow.com/questions/35467303/write-factorial-with-while-loop-python 
 
 # Exercise
